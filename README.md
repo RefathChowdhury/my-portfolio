@@ -1,4 +1,4 @@
-# Refath Chowdhury — Personal Portfolio 🚀
+# Refath Chowdhury - Personal Portfolio
 
 **A modern, responsive developer portfolio built with React and Tailwind CSS**
 
@@ -6,7 +6,7 @@ This portfolio showcases my projects, internship experience, skills, and leaders
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The portfolio includes:
 
@@ -18,34 +18,34 @@ The portfolio includes:
 
 ---
 
-## 🧠 Sections
+## Sections
 
-### 👤 About
+### About
 - Background, education, GPA, and honors
 - Quick-glance stats card with current status
 
-### 🛠 Skills
+### Skills
 - Languages, frameworks, APIs, databases, and developer tools
 - Organized into 4 visual skill cards
 
-### 📁 Projects
+### Projects
 - FormForge (HackKnight 2025)
 - MindBridge
 - Playlist Health Dashboard
 - Campus Crisis Map
 - Aspire High Student Tracker
 
-### 💼 Experience
+### Experience
 - Software Engineering Intern @ Aspire High Youth Development
 - Software Engineering Intern @ Reach Into Cultural Heights (RICH)
 
-### 🏆 Leadership
+### Leadership
 - Co-Founder & VP @ NYIT Cybersecurity Club
-- PicoCTF Competitor — Top 5 of 80+
+- PicoCTF Competitor - Top 5 of 80+
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Tech |
 |-------|------|
@@ -56,7 +56,7 @@ The portfolio includes:
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ### Clone the repo
 ```bash
@@ -78,17 +78,17 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🎯 What I Learned
+## What I Learned
 
 - Building performant scroll-based animations without external libraries
 - Structuring a large single-page React app cleanly
-- Tailwind CSS v4 setup with Vite using the new `@tailwindcss/vite` plugin
+- Tailwind CSS v4 setup with Vite using the new @tailwindcss/vite plugin
 - Git workflow and deploying a React app from scratch
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📧 Email: cRefath13@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/cRefath](https://linkedin.com/in/cRefath)
-- 🐙 GitHub: [github.com/RefathChowdhury](https://github.com/RefathChowdhury)
+- Email: cRefath13@gmail.com
+- LinkedIn: [linkedin.com/in/cRefath](https://linkedin.com/in/cRefath)
+- GitHub: [github.com/RefathChowdhury](https://github.com/RefathChowdhury)
