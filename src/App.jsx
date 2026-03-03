@@ -90,8 +90,8 @@ export default function Portfolio() {
       description: 'Built during HackKnight 2025 (48-hour hackathon) — an AI-assisted workout form analysis platform that detects posture issues by comparing user movements to ideal exercise baselines using real-time pose overlays and rep tracking.',
       tech: ['Next.js', 'TypeScript', 'Tailwind CSS', 'OpenCV.js'],
       image: 'https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&h=500&fit=crop',
-      demo: '#',
-      code: '#',
+      demo: 'https://formforge-zeta.vercel.app',    
+      code: 'https://github.com/RefathChowdhury/formforge',
       gradient: 'from-cyan-500 to-blue-500',
       period: 'Mar 2025'
     },
