@@ -1,16 +1,46 @@
-# React + Vite
+# Refath Chowdhury — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built with React and Tailwind CSS. Features smooth scroll animations, a mouse-tracking gradient orb, and sections for projects, experience, skills, and more.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [coming soon]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- [Tailwind CSS v4](https://tailwindcss.com/)
+- [Lucide React](https://lucide.dev/) — icons
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Sections
+
+- **Hero** — intro, social links, and CTA
+- **About** — background, education, and certifications
+- **Skills** — languages, frameworks, APIs, and tools
+- **Projects** — featured work with tech stack and links
+- **Experience** — internship roles and achievements
+- **Leadership** — club founding and competition highlights
+- **Contact** — contact form and social links
+
+---
+
+## Run Locally
+
+```bash
+git clone https://github.com/RefathChowdhury/my-portfolio.git
+cd my-portfolio
+npm install
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## Contact
+
+- Email: cRefath13@gmail.com
+- LinkedIn: [linkedin.com/in/cRefath](https://linkedin.com/in/cRefath)
+- GitHub: [github.com/RefathChowdhury](https://github.com/RefathChowdhury)
